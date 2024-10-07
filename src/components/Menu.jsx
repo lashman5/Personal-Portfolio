@@ -27,7 +27,7 @@ const Menu = () => {
           <a href="#education">Education</a>
         </li>
         <li>
-          <a href="#projects">Blog</a>
+          <a href="#blog">Blog</a>
         </li>
         <li>
           <a href="#projects">Projects</a>
