@@ -6,7 +6,7 @@ import PowerBI from "../assets/powerbi.png";
 import Office from "../assets/office.png";
 import Tableau from "../assets/tableau.png";
 import SQL from "../assets/sql.png";
-import C from "../assets/c.png";
+import C from "../assets/C.png";
 
 import Whatfix from "../assets/whatfix.png";
 import SSN from "../assets/ssn.jpeg";
