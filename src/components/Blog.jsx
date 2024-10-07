@@ -124,7 +124,7 @@ const BlogPosts = () => {
             data-aos="zoom-out-down"
           >
             {posts.map((post, index) => (
-              <div key={index} className="shadow-2xl rounded-3xl bg-[#e1e1e1] dark:bg-transparent border-[#00040f] h-[480px] max-sm:h-[480px] p-5 hover:bg-gradient-to-tl from-[#e1e1e1] to-[#fff] dark:from-[#00040F] dark:to-[#0B274C] flex flex-col">
+              <div key={index} className="shadow-2xl rounded-3xl bg-[#e1e1e1] dark:bg-transparent border-[#00040f] h-[480px] max-sm:h-[540px] p-5 hover:bg-gradient-to-tl from-[#e1e1e1] to-[#fff] dark:from-[#00040F] dark:to-[#0B274C] flex flex-col">
                 <img 
                   src={post.thumbnail} 
                   alt={post.title} 
