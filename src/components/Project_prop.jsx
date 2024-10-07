@@ -2,7 +2,7 @@ import React from 'react';
 
 const Project_prop = ({ img, title, para }) => {
   return (
-    <div className="shadow-xl bg-[#e1e1e1] dark:bg-transparent dark:border-white border rounded-xl h-[280px] max-sm:h-[480px] p-5 hover:bg-gradient-to-tl from-[#ccc] to-[#e1e1e1] dark:from-[#00040F] dark:to-[#0B274C] flex flex-col">
+    <div className="shadow-2xl rounded-3xl bg-[#e1e1e1] dark:bg-transparent border-[#00040f] h-[280px] max-sm:h-[480px] p-5 hover:bg-gradient-to-tl from-[#e1e1e1] to-[#fff] dark:from-[#00040F] dark:to-[#0B274C] flex flex-col">
       <div className="HEADER flex items-center mb-4">
         <div className="ml-2 mr-5 w-16 h-16 flex-shrink-0">
           <img

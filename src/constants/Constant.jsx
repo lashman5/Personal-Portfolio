@@ -8,17 +8,15 @@ import Tableau from "../assets/tableau.png";
 import SQL from "../assets/sql.png";
 import C from "../assets/c.png";
 
-import Portfolio from "../assets/portfolio.jpg";
-
 import Whatfix from "../assets/whatfix.png";
 import SSN from "../assets/ssn.jpeg";
 import Adimaginz from "../assets/adimaginz.jpeg";
 import MEXC from "../assets/mexc.jpeg";
 import Sponsee from "../assets/sponsee.png";
 
-import Rocket from "../assets/Rocket.jpg";
-import Game from "../assets/Stone.jpg";
-import WellBeing from "../assets/well-being.jpg";
+import Research from "../assets/research.gif";
+import EV from "../assets/ev.gif";
+import Blockchain from "../assets/blockchain.gif";
 
 export {
   Jira,
@@ -31,15 +29,13 @@ export {
   SQL,
   C,
 
-  Portfolio, 
-
   Whatfix,
   SSN,
   Adimaginz,
   MEXC,
   Sponsee,
 
-  Rocket,
-  WellBeing,
-  Game,
+  Research,
+  EV,
+  Blockchain,
 };

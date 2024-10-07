@@ -1,11 +1,9 @@
-import Project_prop from "./project_prop";
+import Project_prop from "./Project_prop";
 import {
-  Portfolio,
-  Rocket,
-  WellBeing,
+  Research,
+  EV,
+  Blockchain,
 } from "../constants/Constant";
-import Tooltip from "@mui/material/Tooltip";
-import IconButton from "@mui/material/IconButton";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
@@ -32,22 +30,22 @@ const Projects = () => {
             title="SheChoice: Insights into Sanitary Napkin Preferences"
             para="A comprehensive market research study analyzing consumer preferences and the factors influencing their choices in the sanitary napkin market. 
             The project aims to empower brands with actionable insights to better cater to women's hygiene needs."
-            img={Portfolio}
+            img={Research}
             link=""
           />
           <Project_prop
             title="GreenDrive: Decoding Customer Preferences in Electric Vehicles"
             para="A deep dive into customer behavior and preferences in the Electric Vehicle (EV) market using conjoint analysis. 
             The study focuses on improving convenience, affordability, and variety of options in the evolving EV sector."
-            img={Rocket}
-            link="https://stark-rockets.onrender.com/"
+            img={EV}
+            link=""
           />
           <Project_prop
             title="ChainVote: Secure Decentralized E-Voting on Blockchain"
             para="A cutting-edge e-voting system designed using open blockchain technology, ensuring transparency and tamper-proof vote recording. 
             It integrates advanced security features such as cryptographic protocols and multi-factor authentication to safeguard electoral integrity."
-            img={WellBeing}
-            link="https://dhairyamajmudar.github.io/Thrive/"
+            img={Blockchain}
+            link=""
           />
           
         </div>
