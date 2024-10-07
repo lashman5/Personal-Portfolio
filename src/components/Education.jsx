@@ -14,11 +14,11 @@ const Education = () => {
   return (
     <section
       id="education"
-      className="EXPERIENCE p-5 mx-20 min-h-screen font-['Poppins'] max-sm:p-2 max-sm:mx-5"
+      className="p-5 mx-20 min-h-screen font-['Poppins'] max-sm:p-2 max-sm:mx-5"
     >
       <div className="WRAPPER mt-20">
         <h1 className="text-[#00040f] dark:text-slate-300 text-center font-extrabold text-5xl mb-5 max-sm:text-4xl">
-          Education
+          EDUCATION
         </h1>
         <div
           className="EDUCATION flex gap-5 justify-between flex-row-reverse max-sm:flex-col"

@@ -31,14 +31,14 @@ const Contact = () => {
                 <SiLinkedin />
               </a>
               <a
-                href=""
+                href="/"
                 className=" hover:text-slate-500  dark:hover:text-sky-300"
               >
                 <SiTwitter />
               </a>
               <a
-                href="priyasanthini18@gmail.com"
-                className=" hover:text-slate-500  dark:hover:text-sky-300"
+                href="mailto:priyasanthini18@gmail.com"
+                className="hover:text-slate-500 dark:hover:text-sky-300"
               >
                 <SiGmail />
               </a>

@@ -85,13 +85,14 @@ const BlogPosts = () => {
   }, []);
 
   return (
+    <>
     <section 
       id="blog"
-      className="p-5 mx-20 min-h-screen font-['Poppins'] max-sm:p-2 max-sm:mx-5"
+      className="BLOG p-5 mx-20 min-h-screen font-['Poppins'] max-sm:p-2 max-sm:mx-5"
     >
       <div className="mt-20" data-aos="fade-down">
         <h1 className="text-[#00040f] dark:text-slate-300 text-center font-extrabold text-5xl mb-5 max-sm:text-4xl">
-          Blog Posts
+          BLOG POSTS
         </h1>
 
         {cookieWarning && (
@@ -124,7 +125,13 @@ const BlogPosts = () => {
             data-aos="zoom-out-down"
           >
             {posts.map((post, index) => (
-              <div key={index} className="shadow-2xl rounded-3xl bg-[#e1e1e1] dark:bg-transparent border-[#00040f] h-[480px] max-sm:h-[560px] p-5 hover:bg-gradient-to-tl from-[#e1e1e1] to-[#fff] dark:from-[#00040F] dark:to-[#0B274C] flex flex-col">
+             <div 
+                key={index} 
+                className="shadow-2xl rounded-3xl bg-gradient-to-tl from-[#e1e1e1] to-[#fff] dark:from-[#00040F] dark:to-[#0B274C] 
+                border-[#00040f] h-[480px] max-sm:h-[580px] p-5 
+                hover:bg-gradient-to-tl hover:from-[#f0f4f8] hover:to-[#f8f9fb] 
+                dark:hover:from-[#112040] dark:hover:to-[#1c355d] transition duration-300 transform hover:scale-105 flex flex-col"
+              >           
                 <img 
                   src={post.thumbnail} 
                   alt={post.title} 
@@ -152,6 +159,7 @@ const BlogPosts = () => {
         )}
       </div>
     </section>
+    </>
   );
 };
 

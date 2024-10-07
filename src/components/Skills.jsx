@@ -26,7 +26,7 @@ const Skills = () => {
           SKILLS
         </h1>
         <div
-          className="IMG grid place-content-center p-5 grid-cols-3 gap-4 max-sm:p-2 mt-10"
+          className="IMG grid place-content-center p-5 grid-cols-3 gap-5 max-sm:p-2 mt-10"
           data-aos="zoom-out-up"
         >
           <Image img={Analytics}></Image>

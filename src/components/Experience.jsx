@@ -1,7 +1,4 @@
-"use client";
-
 import Exp_prop from "./Exp_prop";
-import Skills from "./Skills";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
@@ -73,11 +70,9 @@ const Experience = () => {
               para1="● Developed a blockchain-based bidding system for an NFT gaming project, ensuring transparent and secure transactions."
               para2="● Conducted end-to-end system testing, identifying and fixing issues to ensure seamless integration and functionality of the system."
             />
-            
           </div>
         </div>
       </section>
-      <Skills></Skills>
     </>
   );
 };

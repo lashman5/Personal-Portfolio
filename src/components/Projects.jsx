@@ -19,7 +19,7 @@ const Projects = () => {
     >
       <div className="WRAPPER mt-20" data-aos="fade-down">
         <h1 className="text-[#00040f] dark:text-slate-300 text-center font-extrabold text-5xl mb-5  max-sm:text-4xl  ">
-          Projects
+          PROJECTS
         </h1>
 
         <div

@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Experience from "./components/Experience";
+import Skills from "./components/Skills";
 import Education from "./components/Education";
 import Blogs from "./components/Blog";
 import Projects from "./components/Projects";
@@ -44,6 +45,7 @@ const App = () => {
           <Navbar></Navbar>
           <About></About>
           <Experience></Experience>
+          <Skills></Skills>
           <Education></Education>
           <Blogs></Blogs>
           <Projects></Projects>

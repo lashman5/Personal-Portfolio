@@ -36,9 +36,8 @@ const About = () => {
             loop={true}
             className="max-w-[100px] w-full h-auto"
           />
-      </div>
-      </section>
-
+       </div>
+     </section>
     </>
   );
 };
