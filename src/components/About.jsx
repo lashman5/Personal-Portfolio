@@ -19,7 +19,7 @@ const About = () => {
             </span>
 
             <p className="ABOUT text-lg max-sm:text-[15px] bg-clip-text text-transparent bg-gradient-to-r from-[#00040f] to-slate-600 dark:from-slate-500 dark:to-slate-200 max-w-[720px] mt-5 pl-1.5 text-left text-justify">
-              I am a Computer Science engineer and MBA student with a passion for blending technical expertise and management insights to drive innovation. With a track record of success in diverse projects, I am proficient in data analytics tools such as Excel, Power BI, SQL, and Google Analytics, and I’m eager to tackle real-world industry challenges, aspiring to thrive in a product management role.
+              I’m a results-oriented Marketing Strategist with an MBA specializing in Marketing and a background in Computer Science. My journey began with a successful internship at Whatfix, where I secured a pre-placement offer, marking my potential as a valuable asset. Leveraging my analytical skills and technical expertise, I create data-driven marketing campaigns that boost engagement and drive growth. Proficient in Excel, Power BI, and Google Marketing Platforms (Campaign Manager, Video 360, Search Ads 360), I excel at bridging the gap between marketing and technical teams, optimizing strategies that attract and retain customers for sustainable success.
             </p>
           </div>
 

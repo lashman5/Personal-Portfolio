@@ -44,9 +44,9 @@ const Contact = () => {
               </a>
             </div>
             <div className="flex gap-5 max-sm:justify-center">
-              <button className="py-3 px-4 bg-gradient-to-t dark:from-cyan-500 dark:to-slate-300  from-blue-600 to-cyan-600 font-medium text-[12px] text-[#e1e1e1] dark:text-black outline-none mt-10 mr-3 rounded ">
+              {/* <button className="py-3 px-4 bg-gradient-to-t dark:from-cyan-500 dark:to-slate-300  from-blue-600 to-cyan-600 font-medium text-[12px] text-[#e1e1e1] dark:text-black outline-none mt-10 mr-3 rounded ">
                 <a href="https://drive.google.com/file/d/1R3M9yOtagCin0myrs-UUu4K5q1Qo7P0c/view?usp=drivesdk">Resume</a>
-              </button>
+              </button> */}
 
               <button className="py-3 px-4 bg-gradient-to-t dark:from-cyan-500 dark:to-slate-300 from-blue-600 to-cyan-600  font-medium text-[12px] text-[#e1e1e1] dark:text-black outline-none mt-10 mr-3 rounded ">
                 <a

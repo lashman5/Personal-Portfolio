@@ -39,14 +39,6 @@ const Experience = () => {
               para2="● Ensured timely project delivery, actively selecting templates and images that resonated with diverse client target audiences, enhancing the overall effectiveness of email marketing strategies."
             />
             <Exp_prop
-              img={SSN}
-              title="SSN School of Management"
-              subtitle="Senior Placement Coordinator"
-              date="Chennai, January 2023 - present"
-              para1="● Organized corporate lectures, facilitating interactions between professionals and students to enhance understanding of industry trends and requirements."
-              para2="● Managed student and college databases, ensuring accurate records, and implemented JIRA for improved task tracking and efficiency in placement activities."
-            />
-            <Exp_prop
               img={Adimaginz}
               title="Adimaginz Marketing Services Pvt Ltd."
               subtitle="Business Development Executive"

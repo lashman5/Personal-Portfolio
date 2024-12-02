@@ -43,7 +43,7 @@ const Education = () => {
                 2023 - 2025
               </p>
               <p className="capitalize text-gray-500 dark:text-slate-500 text-xl max-sm:text-lg leading-9">
-                Information Technology and Analytics
+                Marketing and Operations
               </p>
             </div>
           </div>
